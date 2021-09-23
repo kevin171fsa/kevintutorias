@@ -1,1 +1,1 @@
-worker: python3 kevinstore.py
+worker: python3 main.py
